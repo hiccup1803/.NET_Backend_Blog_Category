@@ -74,3 +74,10 @@ D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\obj\Debug\net7.0\refint\CodeP
 D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.API.pdb
 D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
 D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\obj\Debug\net7.0\ref\CodePulse.API.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workplace\Angular_Net\MyAPI\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
